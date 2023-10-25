@@ -1,0 +1,8 @@
+.logo::before{
+    content: "";
+    display: inline-flex;
+    width: 60px;
+    height: 60px;
+    background-color: rgb(255, 192, 97, 1);
+    margin: 10px 20px;
+ }
