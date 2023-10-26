@@ -1,0 +1,22 @@
+.banner{
+   background-image: url(../../assets/img/background\ banner.jpg); /*to use some image, the ../ to acess other fold*/
+   background-repeat: no-repeat;
+   height: 800px;
+   background-size: 100%;
+   border-bottom: 10px solid black;
+   padding-top: 115px;
+   padding-left: 90px;
+}
+.banner .wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 630px;
+}
+.banner .box{
+    margin-bottom: 40px;
+}
+.banner .navigation{
+    display: flex;
+    justify-content: space-around;
+}
+

@@ -6,7 +6,7 @@
     margin-right: 0px;
     transition: 100ms cubic-bezier(0.075, 0.82, 0.165, 1);
     font-size: 20px;
-    color: white;
+    color: rgb(0, 0, 0);
     font-weight: 500;
     text-decoration: none;
 }
@@ -15,4 +15,5 @@
     background-color: rgb(149, 74, 235); 
     box-shadow: 5px 5px 0 rgb(66, 62, 134);
     scale: 1.1;
+    color: white;
 }
