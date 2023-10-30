@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     background-color:  rgb(0, 0, 0);
-    border-bottom: 10px solid rgb(153, 135, 135);
+    border-bottom: 10px solid #3a4042;
     padding: 10px 20px;
  }
  
